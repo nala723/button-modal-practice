@@ -1,2 +1,2 @@
-# button-modal-practice
+# practice
 Created with CodeSandbox
